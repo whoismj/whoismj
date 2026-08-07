@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/5g2TQtFk/damff7h-21d0ebc1-6683-4f7f-9d56-18e903b8b66d.gif" width="89">
+</p>
+
 <div align="center">
   <div style="background-color: #030305; border: 1px solid #FF003C; border-radius: 6px; padding: 18px 12px 12px 12px; max-width: 840px; box-shadow: 0 0 25px rgba(255, 0, 60, 0.35); display: inline-block;">
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 1px solid #26000C; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; color: #FF003C; font-family: monospace; font-size: 12px; letter-spacing: 2px;">
